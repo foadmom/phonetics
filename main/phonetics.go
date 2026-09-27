@@ -17,7 +17,7 @@ var testData = []string{"ackermann", "Fusedale", "Charon", "Lampart",
 
 func main() {
 	fmt.Printf ("testing phonetics\n");
-//	testStringSplit ("seyed-foad momtazi, anari");
+//	testStringSplit ("Jean-Claude Van Damme");
 //	testStringSplitRegExp ();
 //	testPostgres ();
 	testPhonetics();
